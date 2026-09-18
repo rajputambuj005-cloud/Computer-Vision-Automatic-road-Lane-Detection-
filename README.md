@@ -27,5 +27,5 @@ Requirements
     OpenCV
     NumPy
     
-    Installation
+Installation
 1. Clone the repository
